@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Tairon 👋
+👨‍💻 Software developer at [Globo.com](https://www.globo.com/)
 
-<!--
-**taironcoelho/taironcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📡 Electrical Engineer
 
-Here are some ideas to get you started:
+🇧🇷 Born in Porto Alegre, Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 Living in Rio de Janeiro, Brazil
+
+🧠 For the past two years I've been dedicating myself to developing web apps with ReactJs and NodeJs
+### Find me elsewhere 🌎
+- 💼 [LinkedIn](https://www.linkedin.com/in/tairon-neitzel-coelho-6b9684108/)
+- 📸 [Instagram](https://www.instagram.com/taironnc/)
+- ✉️ [Email](mailto:taironcoelho@gmail.com)
