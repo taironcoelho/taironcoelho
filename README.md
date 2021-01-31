@@ -7,7 +7,7 @@
 
 🏡 Living in Rio de Janeiro, Brazil
 
-🧠 For the past two years I've been dedicating myself to developing web apps with ReactJs and NodeJs
+🧠 In the past 3 years I've been dedicating myself to developing web apps with ReactJs and NodeJs
 ### Find me elsewhere 🌎
 - 💼 [LinkedIn](https://www.linkedin.com/in/tairon-neitzel-coelho-6b9684108/)
 - 📸 [Instagram](https://www.instagram.com/taironnc/)
