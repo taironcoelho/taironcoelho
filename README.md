@@ -1,5 +1,5 @@
 ### Hi, I'm Tairon 👋
-👨‍💻 Fullstack developer at [Oaky](https://www.oaky.com/)
+👨‍💻 Fullstack developer
 
 📡 Electrical Engineer
 
